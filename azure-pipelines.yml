@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: SamS
+pool: Sam1
 
 steps:
 - task: Maven@3
